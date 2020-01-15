@@ -1,0 +1,16 @@
+{
+  "itens": [
+    {
+      "id": 1,
+      "name": "bike"
+    },
+    {
+      "id": 2,
+      "name": "patinete"
+    },
+    {
+      "id": 3,
+      "name": "patins"
+    }
+  ]
+}
